@@ -35,7 +35,7 @@
 
 | ابزار | روش نصب |
 |--------|-----------|
-| **Termux** | از [F-Droid](https://f-droid.org/en/packages/com.termux/) نصب کنید |
+| **Termux** | از [فارسروید](https://www.farsroid.com/termux/) نصب کنید |
 | **Python 3** | `pkg install python` |
 | **Termux-API** | `pkg install termux-api` |
 
