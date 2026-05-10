@@ -46,5 +46,5 @@
 ### ۱. کلون از گیت‌هاب
 ```bash
 git clone https://github.com/amiralisalmani-jajarm/tastbateri.git
-cd Termux-Battery-Checker
+cd tastbateri
 python battery.py
